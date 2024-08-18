@@ -1,0 +1,5 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore Google OAuth credentials file
+credentials.json
