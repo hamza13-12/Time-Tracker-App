@@ -110,40 +110,26 @@ You can interact with the app via HTTP POST requests to the /process_command end
 -   Add an event:
 
 ```json
-{
-    "command": "add 30 minutes to 'Team Meeting'"
-}
+{ "command": "add 30 minutes to 'Team Meeting'" }
 ```
 
 -   Update an event:
 
 ```json
-{
-
-    "command": "update 'Budget Review' by 15 minutes"
-
-}
+{ "command": "add 30 minutes to 'Team Meeting'" }
 ```
 
 -   Reschedule an event:
 
 ```json
-{
-
-    "command": "reschedule 'Project Kickoff' by 30 minutes"
-
-}
+{"command": "reschedule 'Project Kickoff' by 30 minutes"}
 ```
 
 -   Delete an event:
 
 ```json
 
-{
-
-    "command": "delete 'Weekly Standup'"
-
-}
+{"command": "delete 'Weekly Standup'"}
 
 ```
 
