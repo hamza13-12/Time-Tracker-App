@@ -30,6 +30,6 @@ Clone the project repository to your local machine:
 git clone https://github.com/your-username/google-calendar-time-tracker.git
 cd google-calendar-time-tracker
 
-### 2. Set Up a Virtual Environment
+**### 2. Set up a Virtual Environment**
 
 
